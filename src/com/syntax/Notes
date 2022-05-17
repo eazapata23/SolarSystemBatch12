@@ -3,3 +3,8 @@ Branches:
 Project
 
 1.Deploy the solar system with basic features as soon as possible!
+2.Develop the features of SUN in the Solar System and deploy it!!
+
+To merge a branch
+step1:switch to the branch to which you want to merge!
+step2: run the command "git merge"
