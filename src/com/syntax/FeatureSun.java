@@ -1,2 +1,5 @@
-package com.syntax;public class FeatureSun {
+package com.syntax;
+
+public class FeatureSun {
+
 }
